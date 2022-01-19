@@ -2,4 +2,5 @@
 Void main() 
 {
 Print ("hello world") 
+Print ("\n this is a basic c program ");
 }
